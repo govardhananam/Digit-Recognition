@@ -3,7 +3,7 @@ Run it on google collab or juptyr
 save the model using tensorflowjs
 Deploy the model. Run the Html file on the local server to test the deployed model.
 
-This datset used is MNIST digit datset.
+This dataset used is MNIST digit datset.
 
 # If the python notebook doesn't load
 
