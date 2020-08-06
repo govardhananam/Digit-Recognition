@@ -3,7 +3,7 @@ Run it on google collab or juptyr
 save the model using tensorflowjs
 Deploy the model. Run the Html file on the local server to test the deployed model.
 
-This dataset used is MNIST digit datset.
+This dataset used is MNIST digit dataset.
 
 # If the python notebook doesn't load
 
@@ -18,4 +18,6 @@ e.g.
 http://github.com/govardhananam/Attack-Classes-Prediction-using-Machine-Learning-Algorithms/blob/master/KDDCup.ipynb
 becomes
 http://github.com/govardhananam/Attack-Classes-Prediction-using-Machine-Learning-Algorithms/blob/master/KDDCup.ipynb?flush_cache=true
+
+
 
